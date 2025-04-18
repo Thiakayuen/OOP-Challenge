@@ -1,7 +1,7 @@
 
-from Pet import pet
+from pet import Pet
 
-myPet = pet("Rockie")
+myPet = Pet("Rockie")
 
 # call functions to demonstrate basic interactions
 print(" Basic Interactions ")
