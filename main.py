@@ -3,20 +3,15 @@ from pet import Pet
 
 myPet = Pet("Rockie")
 
-# call functions to demonstrate basic interactions
-print(" Basic Interactions ")
+print(f"Creating pet: {myPet.name} /n")
+
 myPet.eat()
 myPet.play()
 myPet.sleep()
 myPet.get_status()
 
-# call training functions to demonstrate training
-print("\n Training Tricks ")
-myPet.train("cooking")
-myPet.train("Learnt to code")
-myPet.train("Bigging")
+myPet.train("Hunting")
+myPet.train("Roll over")
+myPet.train("Darking")
 myPet.show_tricks()
 
-# Show status after training
-print("\n Final Status: ")
-myPet.get_status()
