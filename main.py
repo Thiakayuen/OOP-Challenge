@@ -1,4 +1,4 @@
-
+# This is the main file that will be used to run the program
 from pet import Pet
 
 myPet = Pet("Rockie")
@@ -14,4 +14,5 @@ myPet.train("Hunting")
 myPet.train("Roll over")
 myPet.train("Darking")
 myPet.show_tricks()
+
 
