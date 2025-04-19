@@ -33,7 +33,7 @@ class Pet:
     def train(self, trick):
         self.tricks.append(trick)
 
-    # A function that shows the tricks your pet has learned.
+    # A function that shows the tricks your pet has learned..
     def show_tricks(self):
         print(f"{self.name} knows these tricks: {self.tricks}")
 
