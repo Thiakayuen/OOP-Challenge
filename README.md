@@ -142,4 +142,4 @@ This project was developed as part of the **PLP Academy Group Assignment**. Belo
 
 Stay tuned for updates as we continue to make the **Pet Simulator** even more engaging and fun!
 
-Thank you for using the Pet Simulator! We hope you enjoy interacting with your virtual pet. 🐾
+Thank you for using the Pet Simulator! We hope you enjoy interacting with your virtual pet.  🐾
