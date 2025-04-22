@@ -1,6 +1,5 @@
 class Pet:
     
-    # Constructor that initializes the pet's name, hunger, energy, happiness, and tricks.
     def __init__(self, name):
         self.name = name
         self.hunger = 5
